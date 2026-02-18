@@ -1,0 +1,115 @@
+/* ######### Drop Down ULs CSS ######### */
+.ddsubmenustyle, .ddsubmenustyle ul{ /*topmost and sub ULs, respectively*/
+margin: 0;
+padding: 0;
+position: absolute;
+list-style-type: none;
+font:normal 12px "trebuchet MS";
+border:0px solid #000;
+border-bottom-width: 0;
+visibility: hidden;
+z-index: 100;}
+.ddsubmenustyle li a{
+display: block;
+width: 180px; /*width of menu (not including side paddings)*/
+color: black;
+background-color: #E82709;
+font:normal 12px "trebuchet MS";
+text-decoration: none;
+padding: 5px 5px ;
+border-bottom: 1px solid #AE1B04;
+border-right: 0px solid #fff;
+color:#fff;
+line-height: 19px;
+}
+* html .ddsubmenustyle li{ /*IE6 CSS hack*/
+display: inline-block;
+width: 140px; /*width of menu (include side paddings of LI A*/
+}
+.ddsubmenustyle li a:hover{
+background-color: #067FC4;
+color: white;
+}
+/* ######### Neutral CSS  ######### */
+.downarrowpointer{ /*CSS for "down" arrow image added to top menu items*/
+padding-left:4px;
+border: 0;
+display:none;
+}
+.rightarrowpointer{ /*CSS for "right" arrow image added to drop down menu items*/
+position: absolute;
+padding-top: 3px;
+left: 100px;
+border: 0;
+}
+.ddiframeshim{
+position: absolute;
+z-index: 500;
+background: transparent;
+border-width: 0;
+width: 0;
+height: 0;
+display: block;
+}
+/* ######### Customized Drop Down ULs CSS (inherits from ddlevelsmenu-base.css) ######### */
+.blackwhite li a{
+background: white;
+}
+.blackwhite li a:hover{
+background: black;
+color: white;
+}
+/* ######### Matt Black Strip Main Menu Bar CSS ######### */
+.mattblackmenu ul{
+margin: 0;
+padding: 0;
+list-style-type: none;
+overflow: hidden;
+width:990px;
+float: left;
+border:0px solid #000;
+background-image: url(../../images/menu_right.jpg);background-repeat: no-repeat;background-position: right;line-height: 38px;
+}
+.mattblackmenu li{
+float: left;
+margin: 0;
+background-image: url(../../images/menu_dots.gif);background-position: right;
+}
+.mattblackmenu li em{
+background-image: url(../../images/arrow-down.gif);}
+.mattblackmenu li img{
+float:left;}
+.mattblackmenu li a{
+float: left;
+padding:0px 12px; /*padding inside each tab*/
+text-decoration: none;
+background-image: url(../../images/menubg.jpg);background-repeat: repeat-x;
+font:bold 12px "trebuchet MS";
+color:#fff;
+line-height: 38px;
+}
+.mattblackmenu li a:hover{ 
+background-image: url(../../images/menu_bg_hover.jpg);background-repeat:repeat-x;color: #fff; }
+.mattblackmenu a.selected{
+background-image: url(../../images/menu_bg_hover.jpg);background-repeat:repeat-x;color: #fff; }
+.h1 .active1,
+.h2 .active2,
+.h3 .active3,
+.h4 .active4,
+.h5 .active5,
+.h6 .active6,
+.h7 .active7,
+.h8 .active8,
+.h9 .active9 {
+background-image: url(../../images/menu_bg_hover.jpg);background-repeat:repeat-x;color:#fff;
+}
+.mattblackmenu li span a{
+float: left; background-image: url(../../images/menu_left.jpg);background-repeat: repeat-x;
+}
+.mattblackmenu span a.selected{
+background-image: url(../../images/menu_left_hover.jpg);background-repeat:repeat-x;color: #fff; }
+.mattblackmenu li span a:hover{ 
+background-image: url(../../images/menu_left_hover.jpg);background-repeat:repeat-x;color: #fff; }
+.h1 .active1{
+background-image: url(../../images/menu_left_hover.jpg);background-repeat: no-repeat;background-position: left;color:#fff;
+}

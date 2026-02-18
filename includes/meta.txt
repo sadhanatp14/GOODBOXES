@@ -1,0 +1,18 @@
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="en-us" />
+<meta name="keywords" content="Carton boxes Manufacturers at Chennai | Corrugated Carton Boxes | Corrugated Boxes Manufacturers | Corrugated Packing Boxes | Carton Box supplier | Shipping Boxes | Cardboard box Manufacturers | Corrugated Rolls | Multi Colour Printed Boxes | Corrugated Sheets | Corrugated Carton Box Manufacturers | Corrugated Cardboards | 3ply Corrugated boxes | 5ply Corrugated boxes | 7ply Corrugated boxes | 9ply Corrugated boxes | Custom Cardboard boxes" /> 
+<meta name="description" content="We introduce ourselves as one of the upcoming manufacturers of Corrugated Carton Boxes. We have got two unit situated in Annanur & Thirumullaivoyal Sidco Women Industrial Estate which is close proximity to the Amb. Industrial Estate & Redhills enable us to provide best service to our customers." />
+<meta name="Publisher" content="J B Soft Sy stem(www.jbsoftsystem.com)" />
+<meta name="revisit-after" content="7 days"/><meta name="googlebot" content="ALL" />
+<meta name = "Author" content = "J.Sampath" />
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CHPDZ23S71"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CHPDZ23S71');
+</script>
